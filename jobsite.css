@@ -87,4 +87,20 @@ body{
     display: flex;
     justify-content: center;
  }
- 
+ h3 {
+   color: azure;
+   font-size: 250%;
+   margin-left: 3%;
+   margin-top: 5%;
+   margin-bottom: 0%;
+   
+ }
+ ul  {
+   color: azure;
+   font-size: 200%;
+   list-style: none;
+   margin-left: 3%;
+   margin-top:2%;
+   margin-bottom: 4%;
+
+ }
